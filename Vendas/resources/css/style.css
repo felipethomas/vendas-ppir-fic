@@ -1,0 +1,26 @@
+﻿#Select1 {
+    width: 231px;
+}
+
+#Select2 {
+    width: 229px;
+}
+
+.table {
+ width: 100%;
+ border: 1px solid #f00;
+}
+.table .th {
+ background-color: gray;
+ color: #fff;
+ font-weight: bold;
+ border-bottom: 1px solid #EEEEEE;
+}
+.table .tr:nth-child(odd) {
+ background-color: #EFEFEF;
+}
+.table .td {
+ float: left;
+ width: 23%;
+ padding-left: 2%;
+}

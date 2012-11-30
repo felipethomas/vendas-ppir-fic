@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Vendas</title>
+
+    <link href="resources/css/style.css" rel="stylesheet" />
+    <link href="resources/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+
+    <script src="resources/js/controller.js" type="text/javascript"></script>
+    <script src="resources/js/json.js" type="text/javascript"></script> 
+    <script src="resources/js/jquery.js" type="text/javascript"></script>
+    <script src="resources/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="resources/js/bootstrap-alert.js" type="text/javascript"></script>
+
+    
+</head>
+<body>
+    <div class="container">
+        <fieldset>
+            <legend>Projeto de Vendas</legend>
+
+            <label>Programa&ccedil;&atilde;o para Internet Rica</label>
+
+            <div id="mensagens"></div>
+
+            <div class="well well-small">
+                <span class="help-block">Informe o vendedor</span>
+                <select id="Select1" name="D1" onchange="processaSelectVendedor(this);">
+                    <option></option>
+                </select><br />
+                <span class="help-block">Informe o pedido</span>
+                <select id="Select2" name="D2" onchange="processaTabelaPedido(this);">
+                    <option></option>
+                </select>
+
+                <br />
+
+                <span class="help-block">Detalhes do pedido</span>
+
+                <div id="tabela" class="table table-bordered">
+                    <div class="th">
+                        <div class="td">Descri&ccedil;&atilde;o</div>
+                        <div class="td">Pre&ccedil;o Unit&aacute;rio</div>
+                        <div class="td">Quantidade</div>
+                        <div class="td">Total Produto</div>
+                        <div style="clear: both;"></div>
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
+                <div class="pull-right">
+                    <small>Total: </small>
+                    <div class="input-prepend input-append">
+                        <span class="add-on">$</span>
+                        <input class="span2" id="appendedPrependedInput" type="text"></input>
+                    </div>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+        </fieldset>
+    </div>
+</body>
+</html>

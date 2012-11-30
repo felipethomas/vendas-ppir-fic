@@ -1,0 +1,20 @@
+C:\PPIR\Vendas\Vendas\bin\Vendas.dll
+C:\PPIR\Vendas\Vendas\bin\Vendas.pdb
+C:\PPIR\Vendas\Vendas\obj\Debug\ResolveAssemblyReference.cache
+C:\PPIR\Vendas\Vendas\obj\Debug\Vendas.dll
+C:\PPIR\Vendas\Vendas\obj\Debug\Vendas.pdb
+C:\Users\Insystem\Desktop\FIC\PPIR\Vendas\Vendas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Insystem\Desktop\FIC\PPIR\Vendas\Vendas\obj\Debug\Vendas.dll
+C:\Users\Insystem\Desktop\FIC\PPIR\Vendas\Vendas\bin\Vendas.dll
+C:\Users\Insystem\Desktop\FIC\PPIR\Vendas\Vendas\bin\Vendas.pdb
+C:\Users\Insystem\Desktop\FIC\PPIR\Vendas\Vendas\obj\Debug\Vendas.pdb
+C:\Users\Insystem\Documents\PPIR\Vendas - Felipe\Vendas\bin\Vendas.dll
+C:\Users\Insystem\Documents\PPIR\Vendas - Felipe\Vendas\bin\Vendas.pdb
+C:\Users\Insystem\Documents\PPIR\Vendas - Felipe\Vendas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Insystem\Documents\PPIR\Vendas - Felipe\Vendas\obj\Debug\Vendas.dll
+C:\Users\Insystem\Documents\PPIR\Vendas - Felipe\Vendas\obj\Debug\Vendas.pdb
+C:\Users\Insystem\Desktop\Vendas\Vendas\bin\Vendas.dll
+C:\Users\Insystem\Desktop\Vendas\Vendas\bin\Vendas.pdb
+C:\Users\Insystem\Desktop\Vendas\Vendas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Insystem\Desktop\Vendas\Vendas\obj\Debug\Vendas.dll
+C:\Users\Insystem\Desktop\Vendas\Vendas\obj\Debug\Vendas.pdb
